@@ -46,3 +46,32 @@ Lista de tarefas:
 - [ ] Larajas
 
 ![Colocando Imagens](https://images.unsplash.com/photo-1546534495-fad855fb0fea?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=667&q=80)
+
+[Colocando link](https://github.com/zGabrie1)
+
+Tabela:
+
+Número | Nome | Nota
+---|---|---
+1 | Ricardo | 6
+2 | Bruna | 9
+
+Diferenciar comandos de linguagens de programação: `console.log`, `Number.value()`
+
+```
+var num1 = 1;
+var num2 = 4;
+var resul = 0;
+
+function we(x) {
+   for(c = 0; c < x; c++) {
+      resul += (num1 + num2);
+      console.log(resul);
+   }
+}
+
+we(20);
+
+```
+
+emoji :smile:, :construction:
